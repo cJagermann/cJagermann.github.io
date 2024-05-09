@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "cjagermann.github.io",
   "resources": {
-    "hash": "sha256-oiX4/fGlm2RMmM4zFHeM3xpcfbGyc/BwM3gXnesXj28=",
+    "hash": "sha256-jll1JSNNHzVpSBPEM8zUU6vy6fWSW/XiyDLDzNS+NFM=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.rkw194kvb3.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "cjagermann.github.io.wasm": "sha256-bCTGCNm8aKX0nU5MwUPsPyfZdt+rB4QzB9g28MBTC2E=",
+      "cjagermann.github.io.wasm": "sha256-mSFL5psmZmJCkPbeSXQloWiBJazOiZW0rUTcbS518to=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-kcIOasiNC2iD+Tg022f6aTCKnjwzyE8MQTNpQDoIzyw=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-QbQYD1i1kIfQf790hDwaN1AS44hTIDmXGQuabj0OKxo=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-DQpYnGUhJtjc5Lun2LKa8TfWW1uZsIf0oaXSKg5o8TY=",
@@ -47,6 +47,7 @@
       "Microsoft.Win32.Registry.wasm": "sha256-fWJnMiuA98BQS9cEuhNP08BoC10K4deuYzC7s5u+koU=",
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
+      "Radzen.Blazor.wasm": "sha256-MSku1HL9lVhZKHQXwR83mqggyYWyjFeT/EuT4+TNR70=",
       "System.AppContext.wasm": "sha256-kNFzBggT++vmdmQgLSLZdXgDF5fq3uRKsjM/ReBcbL8=",
       "System.Buffers.wasm": "sha256-oGPp3tkxvt8Ck9jsNQMevzTN7FpZmxOwQw2SMPQhgCk=",
       "System.Collections.Concurrent.wasm": "sha256-+w2TS/ffosZJPOnyx6AyudlRKc1PEy9oIDpul7k1nGc=",
@@ -100,6 +101,7 @@
       "System.IO.Pipes.wasm": "sha256-leCTYNge9RqiyT3p7vlWzcFXDvMFZGpAHknHOLx3Ato=",
       "System.IO.UnmanagedMemoryStream.wasm": "sha256-QsFPS3suohjIK2O+HlWdj3WvTYQ+bLOTJPpQGWaQ3D4=",
       "System.IO.wasm": "sha256-WuLpCYo44vR6gbTt+Bq3v+iReJGntc7c1VA8MkAPfnI=",
+      "System.Linq.Dynamic.Core.wasm": "sha256-zY4O55eQ9gC1F0jl4MFsfpX6oCP3eabUwmK1PIrgx3Q=",
       "System.Linq.Expressions.wasm": "sha256-cm2RwsTP5yMQIYCHMRONpzJ3+xXOL/AoAIGjiWVyK1U=",
       "System.Linq.Parallel.wasm": "sha256-1MWofz5Dg5O0gkyCd5AkKGZ3+i23fhK4C10RPwdyfZA=",
       "System.Linq.Queryable.wasm": "sha256-u9riNHf9mg8FkyO12fXMZkHvZFyLdnGG708Mm1vzStk=",
