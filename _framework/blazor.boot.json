@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "cjagermann.github.io",
   "resources": {
-    "hash": "sha256-jll1JSNNHzVpSBPEM8zUU6vy6fWSW/XiyDLDzNS+NFM=",
+    "hash": "sha256-kZDmmXPFRBWfEVsnks1hR/kaE0rYXHloq1ZcP0wD0E0=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.rkw194kvb3.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "cjagermann.github.io.wasm": "sha256-mSFL5psmZmJCkPbeSXQloWiBJazOiZW0rUTcbS518to=",
+      "cjagermann.github.io.wasm": "sha256-AnOdbBFjr8fM76sNhdqqU9NkVr0R2FZZeWRwpV2oMbQ=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-kcIOasiNC2iD+Tg022f6aTCKnjwzyE8MQTNpQDoIzyw=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-QbQYD1i1kIfQf790hDwaN1AS44hTIDmXGQuabj0OKxo=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-DQpYnGUhJtjc5Lun2LKa8TfWW1uZsIf0oaXSKg5o8TY=",
