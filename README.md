@@ -13,4 +13,4 @@ This site utilizes the following libraries and frameworks:
 
 All source code for this project is written in Typescript and CSS. You can find the code in this [GitHub Repo](https://github.com/cJagermann/cJagermann.github.io/)
 
-This code is available under the [MIT License](./License.md)
+This code is availble under the [MIT License](./License.md)
